@@ -1,0 +1,6 @@
+{"L":"INFO","T":"2025-01-23T16:55:03.336+0100","C":"cmd/server.go:70","M":"Custom logger initialized"}
+{"L":"INFO","T":"2025-01-23T16:55:03.341+0100","C":"service/service.go:29","M":"service created"}
+{"L":"FATAL","T":"2025-01-23T16:55:03.341+0100","C":"runtime/asm_amd64.s:1700","M":"listen tcp: address 8080: missing port in address","S":"runtime.goexit\n\t/usr/local/go/src/runtime/asm_amd64.s:1700"}
+{"L":"INFO","T":"2025-01-23T16:56:03.170+0100","C":"cmd/server.go:70","M":"Custom logger initialized"}
+{"L":"INFO","T":"2025-01-23T16:56:03.174+0100","C":"service/service.go:29","M":"service created"}
+{"L":"FATAL","T":"2025-01-23T16:56:03.175+0100","C":"runtime/asm_amd64.s:1700","M":"listen tcp: address 8080: missing port in address","S":"runtime.goexit\n\t/usr/local/go/src/runtime/asm_amd64.s:1700"}
